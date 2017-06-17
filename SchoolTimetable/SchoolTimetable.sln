@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTimetable.WEB", "SchoolTimetable.WEB\SchoolTimetable.WEB.csproj", "{756A1783-00BE-4AFD-91EC-AF39C6BF50FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTimetable.BLL", "SchoolTimetable.BLL\SchoolTimetable.BLL.csproj", "{05C86223-B781-4CB2-90E0-D8B2A973670D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schooltimetable.UTILS", "Schooltimetable.UTILS\Schooltimetable.UTILS.csproj", "{0110CD3C-0137-4C2F-99D9-91BAEB56432A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTimetable.Data", "SchoolTimetable.Data\SchoolTimetable.Data.csproj", "{3515F766-970D-4BE0-89D2-F30537015A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTimetable.WebAPI", "SchoolTimetable.WebAPI\SchoolTimetable.WebAPI.csproj", "{06565524-C379-4450-8D02-C498728318B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{33D7B484-5DEE-4166-920B-F87737F08976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756A1783-00BE-4AFD-91EC-AF39C6BF50FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756A1783-00BE-4AFD-91EC-AF39C6BF50FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756A1783-00BE-4AFD-91EC-AF39C6BF50FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756A1783-00BE-4AFD-91EC-AF39C6BF50FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C86223-B781-4CB2-90E0-D8B2A973670D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C86223-B781-4CB2-90E0-D8B2A973670D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C86223-B781-4CB2-90E0-D8B2A973670D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C86223-B781-4CB2-90E0-D8B2A973670D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0110CD3C-0137-4C2F-99D9-91BAEB56432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0110CD3C-0137-4C2F-99D9-91BAEB56432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0110CD3C-0137-4C2F-99D9-91BAEB56432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0110CD3C-0137-4C2F-99D9-91BAEB56432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3515F766-970D-4BE0-89D2-F30537015A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515F766-970D-4BE0-89D2-F30537015A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515F766-970D-4BE0-89D2-F30537015A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515F766-970D-4BE0-89D2-F30537015A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06565524-C379-4450-8D02-C498728318B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06565524-C379-4450-8D02-C498728318B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06565524-C379-4450-8D02-C498728318B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06565524-C379-4450-8D02-C498728318B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
